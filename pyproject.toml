@@ -2,11 +2,7 @@
 name = "mlfeatureselection"
 version = "2.3.1"
 description = "Asset to help data scientists retain only the most interesting features."
-authors = ["Mehdi-Tantaoui <m.tantaoui@ibm.com>", 
-"Alpha Diallo <alpha.diallo@fr.ibm.com>", 
-"Valentin Belin <Valentin.BELIN1@ibm.com>",
-"Rob Worsley <rob.worsley@fr.ibm.com>",
-"Thomas-Binder <thomas.binder@ibm.com>"]
+authors = ["Mehdi-Tantaoui <tantaoui.mehdi@gmail.com>"]
 readme = "README.md"
 repository = "https://github.ibm.com/m-tantaoui/MLFeatureSelection"
 license = ""
